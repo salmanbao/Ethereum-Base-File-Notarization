@@ -32,6 +32,9 @@ npm i
 npm run client-install
 npm run dev
 ```
+
+## Screenshots
+![alt text](https://fiverr-res.cloudinary.com/image/upload/q_auto,f_auto/v1/secured-attachments/message/attachments/58c6d097768c264522a15800ee9cbeb6-1619862630101/Screenshot%20from%202021-05-01%2014-49-51.png?__cld_token__=exp=1619905281~hmac=bf521d12d5376c3f57f8dcffb3eebbaaa761b55fb555a7ab5ef8e66548472e70)
 ## License
 
 MIT
